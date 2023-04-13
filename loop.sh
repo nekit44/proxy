@@ -1,6 +1,6 @@
 #!/bin/bash
-while true
+while: true
 do
-make startScan
-make add
+	make startScan
+	make add
 done
